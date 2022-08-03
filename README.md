@@ -1,48 +1,43 @@
 # <Prework Study Guide Webpage>
 
-## This study guide was written for future reference to CSS, Javascript, HTML, Git, and the structures that pertain to those languages. It served as a nice introduction to coding as a means to get my feet wet. This guide helps bring to attention the importance of having neat code and organizing everything in a specific order so that everything may run smoothly. Additionally this helped me learn that javascript is used to change the appearance websites whereas CSS is used to manipulate the style of the webpage.
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+## Description
+This study guide was written for future reference to CSS, Javascript, HTML, Git, and the structures that pertain to those languages. It served as a nice introduction to coding as a means to get my feet wet. This guide helps bring to attention the importance of having neat code and organizing everything in a specific order so that everything may run smoothly. Additionally this helped me learn that javascript is used to change the appearance websites whereas CSS is used to manipulate the style of the webpage.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+Theis guide has notes on Git, CSS, Javascript, and HTML which all pertain to necessary coding styles used in the real world. Additionally Ctrl+Shift+I will open the DevTools console, where we can see the Javascript code in action. Understanding what is going on is essential to compounding learning capability when it comes to coding. Some topics may be easier to learn than others which is why this guide also contains a suggestions on which topics should be learned first.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT License
 
----
+Copyright (c) 2022 KMParrish
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Badges
 
